@@ -1,6 +1,9 @@
 # Amacon_frontend
 This is a static clone of the Amazon.in homepage built using only **HTML** and **CSS**. It is designed to replicate the visual layout and styling of Amazon India for learning and practicing front-end web development skills.
 
+# Deployed link
+https://amacon-sj.w3spaces.com
+
 ## Features
 
 - Responsive layout
